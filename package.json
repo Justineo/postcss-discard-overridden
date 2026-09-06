@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/Justineo/postcss-discard-overridden",
   "dependencies": {
-    "postcss": "^5.0.16"
+    "postcss": "^8.0.0"
   },
   "devDependencies": {
     "ava": "^0.14.0",
